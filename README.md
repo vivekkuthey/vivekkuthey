@@ -5,8 +5,13 @@
 - 📫 How to reach me - vivekkuthey1@gmail.com
 
 🛠 Skills
-- Languages - Java, Javascript,C++, HTML, CSS 
+
+- Languages - Java, Javascript,C++, HTML, CSS
 - Libraries & Frameworks - Tailwind CSS & ReactJS, SpringBoot
 - Databases - MYsql & MongoDB
 - Tools and Technologies - Github, VS code
 - Areas for interests - Frontend Development.
+
+💻 Work Experience
+
+- Frontend Intern @Young Decade (Feb 2024 - June 2024)
