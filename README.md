@@ -10,7 +10,7 @@
 - Libraries & Frameworks - Tailwind CSS & ReactJS, SpringBoot
 - Databases - MYsql & MongoDB
 - Tools and Technologies - Github, VS code
-- Areas for interests - Frontend Development.
+- Areas for interests - Backend Development.
 
 💻 Work Experience
 
