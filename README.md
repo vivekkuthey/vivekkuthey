@@ -14,4 +14,4 @@
 
 💻 Work Experience
 
-- Frontend Intern @Young Decade (Feb 2024 - June 2024)
+- Java Intern @Young Decade (Jan 2024 - June 2024)
