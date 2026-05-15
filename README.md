@@ -8,5 +8,4 @@ Java • Spring Boot • Spring Security • REST APIs • React.js • MySQL �
 🎯 Interested in:
 Backend Development • Microservices • Scalable Systems • Full Stack Java Development
 
-📫 Reach me:
-vivekkuthey1@gmail.com
+📫 Reach me: vivekkuthey1@gmail.com
